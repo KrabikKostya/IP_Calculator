@@ -1,3 +1,0 @@
-D:/IP_Calculator/cmake-build-debug/CMakeFiles/IP_Calculator.dir
-D:/IP_Calculator/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/IP_Calculator/cmake-build-debug/CMakeFiles/rebuild_cache.dir
