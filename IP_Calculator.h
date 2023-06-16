@@ -7,6 +7,7 @@ private:
     IP_Calculator();
     ~IP_Calculator();
     static std::string *split(std::string words);
+    static std::string join(std::string *words);
 
     static const uint32_t class_A_mask = 0b0000 << 28;
     static const uint32_t class_B_mask = 0b1000 << 28;
